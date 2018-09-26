@@ -1,0 +1,4 @@
+averaged values after a proportion 0.000000 of the time series is complete: 
+samples = 3990, I = 37.741856, I(prop) = 0.015097, SI = 95.203255, II = 55.773933 
+phi_I_0 = 0.001956, phi_I_1 =  0.006261, phi_I_2 =  0.004851, phi_I_3 =  0.001771, phi_I_4 =  0.000259 
+phi_S_0 = 0.954774, phi_S_1 =  0.023383, phi_S_2 =  0.005640, phi_S_3 =  0.001005, phi_S_4 =  0.000101 
